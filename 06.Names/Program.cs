@@ -6,6 +6,7 @@ namespace _06.Names
     {
         static void Main(string[] args)
         {
+            //star
             string  name = Console.ReadLine();
             Console.WriteLine($"Hello, {name}!" );
         }
