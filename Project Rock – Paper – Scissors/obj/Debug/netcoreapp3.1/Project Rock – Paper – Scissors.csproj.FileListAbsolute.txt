@@ -1,0 +1,14 @@
+C:\Games\SoftUni\02.Checks\09.Fundamentals\Project Rock – Paper – Scissors\bin\Debug\netcoreapp3.1\Project Rock – Paper – Scissors.exe
+C:\Games\SoftUni\02.Checks\09.Fundamentals\Project Rock – Paper – Scissors\bin\Debug\netcoreapp3.1\Project Rock – Paper – Scissors.deps.json
+C:\Games\SoftUni\02.Checks\09.Fundamentals\Project Rock – Paper – Scissors\bin\Debug\netcoreapp3.1\Project Rock – Paper – Scissors.runtimeconfig.json
+C:\Games\SoftUni\02.Checks\09.Fundamentals\Project Rock – Paper – Scissors\bin\Debug\netcoreapp3.1\Project Rock – Paper – Scissors.runtimeconfig.dev.json
+C:\Games\SoftUni\02.Checks\09.Fundamentals\Project Rock – Paper – Scissors\bin\Debug\netcoreapp3.1\Project Rock – Paper – Scissors.dll
+C:\Games\SoftUni\02.Checks\09.Fundamentals\Project Rock – Paper – Scissors\bin\Debug\netcoreapp3.1\Project Rock – Paper – Scissors.pdb
+C:\Games\SoftUni\02.Checks\09.Fundamentals\Project Rock – Paper – Scissors\obj\Debug\netcoreapp3.1\Project Rock – Paper – Scissors.csproj.AssemblyReference.cache
+C:\Games\SoftUni\02.Checks\09.Fundamentals\Project Rock – Paper – Scissors\obj\Debug\netcoreapp3.1\Project Rock – Paper – Scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\SoftUni\02.Checks\09.Fundamentals\Project Rock – Paper – Scissors\obj\Debug\netcoreapp3.1\Project Rock – Paper – Scissors.AssemblyInfoInputs.cache
+C:\Games\SoftUni\02.Checks\09.Fundamentals\Project Rock – Paper – Scissors\obj\Debug\netcoreapp3.1\Project Rock – Paper – Scissors.AssemblyInfo.cs
+C:\Games\SoftUni\02.Checks\09.Fundamentals\Project Rock – Paper – Scissors\obj\Debug\netcoreapp3.1\Project Rock – Paper – Scissors.csproj.CoreCompileInputs.cache
+C:\Games\SoftUni\02.Checks\09.Fundamentals\Project Rock – Paper – Scissors\obj\Debug\netcoreapp3.1\Project Rock – Paper – Scissors.dll
+C:\Games\SoftUni\02.Checks\09.Fundamentals\Project Rock – Paper – Scissors\obj\Debug\netcoreapp3.1\Project Rock – Paper – Scissors.pdb
+C:\Games\SoftUni\02.Checks\09.Fundamentals\Project Rock – Paper – Scissors\obj\Debug\netcoreapp3.1\Project Rock – Paper – Scissors.genruntimeconfig.cache
