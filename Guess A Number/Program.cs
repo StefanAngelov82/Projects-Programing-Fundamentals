@@ -42,6 +42,9 @@ namespace Guess_A_Number
                 }
            }
             Console.WriteLine("Buy!");
+            Console.ReadKey();
+
+
 
 
 
